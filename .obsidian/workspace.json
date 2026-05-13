@@ -4,17 +4,172 @@
     "type": "split",
     "children": [
       {
-        "id": "f29b2754cccc4561",
+        "id": "76c982902a1bb70c",
+        "type": "split",
+        "children": [
+          {
+            "id": "1cc1c731315d606d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4a849f7325d6ee1f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Maps of Content/Year 4/Algorithms for Scientific Computing.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Algorithms for Scientific Computing"
+                }
+              }
+            ]
+          },
+          {
+            "id": "4c8be0d166cdb3e6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c54e3b986824c6ed",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Maps of Content/Year 4/Edge Computing & IoT.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Edge Computing & IoT"
+                }
+              }
+            ]
+          },
+          {
+            "id": "5b5ecd13d8f03f4b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2bbb7acfb2514ba8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Maps of Content/Year 4/Machine Learning.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Machine Learning"
+                }
+              },
+              {
+                "id": "86b6a654c1ee0960",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Machine Learning/Naive Bayes.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Naive Bayes"
+                }
+              },
+              {
+                "id": "2080a495bb88fd62",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Inbox/Year 4/HT/Machine Learning/Lecture 6 Linear Classification.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lecture 6 Linear Classification"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "ffd2a7de9a91e2a0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5cf236bb11c06226",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Maps of Content/School.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "School"
+                }
+              },
+              {
+                "id": "ae48bde6a6d74368",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Inbox/Lecture 1 Legal Data Science.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lecture 1 Legal Data Science"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "a7f5651714085dac",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "82547451e67e71e8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Maps of Content/Year 4/Legal Data Science and & Informatics.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Legal Data Science and & Informatics"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      {
+        "id": "fb14ec14e99d7fc7",
         "type": "tabs",
         "children": [
           {
-            "id": "845b59d29ac63b3e",
+            "id": "15ad7a6acc961d70",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Maps of Content/Year 4/3D Computer Vision.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3D Computer Vision"
             }
           }
         ]
@@ -49,7 +204,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Simple",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,6 +223,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "5bd3296ae8f9dd48",
+            "type": "leaf",
+            "state": {
+              "type": "vertical-tabs",
+              "state": {},
+              "icon": "vertical-tabs",
+              "title": "Vertical tabs"
             }
           }
         ]
@@ -90,9 +255,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals of AI/Logic Agents.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Year 2/Ellära & Elektronik.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -100,7 +265,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Logic Agents"
+              "title": "Backlinks for Ellära & Elektronik"
             }
           },
           {
@@ -152,21 +317,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals of AI/Logic Agents.md",
+                "file": "Maps of Content/Year 4/3D Computer Vision.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Logic Agents"
+              "title": "Outline of 3D Computer Vision"
+            }
+          },
+          {
+            "id": "374220a7aafc891c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,56 +351,60 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "845b59d29ac63b3e",
+  "active": "15ad7a6acc961d70",
   "lastOpenFiles": [
-    "Assets/Machine Learning/Lecture 2/Pasted image 20260227090607.png",
-    "Assets/Machine Learning/Lecture 2/Pasted image 20260226171608.png",
-    "Assets/Machine Learning/Lecture 1/Pasted image 20260226164155.png",
-    "Assets/Machine Learning/Lecture 1/Pasted image 20260226164015.png",
-    "Assets/Machine Learning/Lecture 1/Pasted image 20260226163822.png",
-    "Year 3/Matematisk Statestik/Väntevärden.md",
-    "Year 3/Matematisk Statestik/Matematisk Statestik.md",
-    "Year 3/Matematisk Statestik/ML och MK.md",
-    "School.md",
-    "Year 3/Matematisk Statestik/Beskrivande Statistik.md",
-    "Pasted image 20260319122139.png",
-    "Year 4",
-    "Year 3",
-    "Year 4/Numerical Algorithms for High Performance Computing/Numerical Algorithms for High Performance Computing.md",
-    "Year 4/Real Time Systems/Real Time Systems.md",
-    "Year 4/Fundamentals of AI/Fundamentals of AI.md",
-    "Year 4/Machine Learning/Special Lecture Introduction to Probabilistic Graphical Models.md",
-    "Year 4/Machine Learning/Machine Learning.md",
-    "Year 4/Machine Learning/Lecture 12 Clustering.md",
-    "Year 4/Machine Learning/Lecture 11 Dimensionality Reduction & Matrix Factorization.md",
-    "Year 4/Machine Learning/Lecture 10 SVM and Kernels.md",
-    "Year 4/Machine Learning/Lecture 9 Deep Learning II.md",
-    "Year 4/Machine Learning/Lecture 8 Deep Learning I.md",
-    "Year 4/Machine Learning/Lecture 7 Optimization.md",
-    "Year 4/Machine Learning/Lecture 6 Linear Classification.md",
-    "Year 4/Machine Learning/Lecture 5 Linear Regression.md",
-    "Year 4/Machine Learning/Lecture 4 Probabilistic Inference.md",
-    "Year 4/Machine Learning/Lecture 3 Decision Trees.md",
-    "Year 4/Machine Learning/Lecture 2 k-Nearest Neighbors.md",
-    "Year 4/Machine Learning/Lecture 1 Introduction.md",
-    "Year 3/Matematisk Statestik/Binomialfördelning med flera.md",
-    "Year 3/Matematisk Statestik/Simulering.md",
-    "Year 3/Matematisk Statestik/Beroende Betingad Sannolikhet.md",
-    "Assets/Matematisk Statestik/Pasted image 20260306142113.png",
-    "Assets/Matematisk Statestik/Pasted image 20260306142026.png",
-    "Assets/Matematisk Statestik/Pasted image 20260305142607.png",
-    "Assets/Matematisk Statestik/Pasted image 20260305131143.png",
-    "Assets/Numerical Algorithms for High Performance Computing/Pasted image 20260303134000.png",
-    "Year 3/Matematisk Statestik",
-    "Assets/Real Time Systems",
-    "arg",
-    "Assets/Matematisk Statestik",
-    "Assets/Numerical Algorithms for High Performance Computing",
-    "Assets/Machine Learning/Lecture 11-12 & Inference",
-    "Assets/Machine Learning/Lecture 10",
-    "Assets/Machine Learning/Lecture 7-9"
+    "Rotation Representations - Matrix, Euler Angles, Exponential Coordinates, and Quaternions.md",
+    "Maps of Content/Year 4/3D Computer Vision.md",
+    "Unit Quaternions for Rotations.md",
+    "Notes/3D Computer Vision/Quaternions.md",
+    "Notes/3D Computer Vision/Limitation of 3-Parameter Rotation Representations.md",
+    "Quaternions Conjugate, Norm, and Inverse.md",
+    "Notes/3D Computer Vision/Concatenation of Motions Across Frames.md",
+    "Notes/3D Computer Vision/Gimbal Lock.md",
+    "Notes/3D Computer Vision/ZYX Euler Angles.md",
+    "Notes/3D Computer Vision/Euler Angle Conventions.md",
+    "Notes/3D Computer Vision/Lie-Cartan Coordinates.md",
+    "Notes/3D Computer Vision/Euler Angles.md",
+    "Notes/3D Computer Vision/Summary of Special Groups.md",
+    "Notes/3D Computer Vision/The Adjoint Map for Frame Transfer.md",
+    "Notes/3D Computer Vision/Velocity Transformation in Camera Coordinates.md",
+    "Notes/3D Computer Vision/Representing Camera Motion.md",
+    "Notes/3D Computer Vision/Exponential Coordinates.md",
+    "Notes/3D Computer Vision/Non-Uniqueness of Exponential Coordinates.md",
+    "Notes/3D Computer Vision/Twist Coordinates.md",
+    "Notes/3D Computer Vision/The Lie Algebra of Twists.md",
+    "Notes/3D Computer Vision/Rodrigues' Formula.md",
+    "Notes/3D Computer Vision/Origins of 3D Reconstruction.md",
+    "Notes/3D Computer Vision/Cross Product.md",
+    "Notes/3D Computer Vision/Lie Groups and Lie Algebras.md",
+    "Notes/3D Computer Vision/The Special Euclidean Group.md",
+    "Notes/3D Computer Vision/The Logarithm Map.md",
+    "Assets/Edge Computing & IoT/Pasted image 20260511172915.png",
+    "Assets/Edge Computing & IoT",
+    "Assets/Edge Computing & IoT/Pasted image 20260511173103.png",
+    "Assets/Edge Computing & IoT/Pasted image 20260511173534.png",
+    "Why TCP",
+    "Notes/Untitled",
+    "Notes/Edge Computing and IoT",
+    "Assets/Machine Learning/Pasted image 20260506193216.png",
+    "Assets/Machine Learning/Pasted image 20260506194359.png",
+    "Assets/Machine Learning/Pasted image 20260506193956.png",
+    "Assets/Machine Learning/Pasted image 20260506193829.png",
+    "Assets/Algorithms in Scientific Computing/Pasted image 20260506121602.png",
+    "Maps of Content/Year 4",
+    "Maps of Content/Year 3",
+    "Maps of Content/Year 2",
+    "Maps of Content/Year 1",
+    "Notes/3D Computer Vision",
+    "Excalidraw/Untitled.canvas",
+    "Assets/Machine Learning/Pasted image 20260503131613.png",
+    "Assets/Machine Learning/Pasted image 20260504103558.png",
+    "Untitled.base"
   ]
 }
